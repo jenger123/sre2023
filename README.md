@@ -49,4 +49,4 @@ Add your nicknames here:
 * Rogi Vomigarbi
 * p8antasm
 * amfexd
-...
+* Родионов Леонид
